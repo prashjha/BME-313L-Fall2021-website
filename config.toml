@@ -1,0 +1,12 @@
+baseURL = 'https://prashjha.github.io/BME-313L-Fall2021-website/'
+title = 'BME 313L (Fall 2021)'
+theme = 'book'
+publishDir = 'docs'
+googleAnalytics = "UA-132780463-3"
+
+[menu]
+# [[menu.after]]
+[[menu.before]]
+  name = "Prashant's Homepage"
+  url = "https://prashjha.github.io/"
+  weight = 1
